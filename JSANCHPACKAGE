@@ -1,0 +1,50 @@
+\name{jsanch-package}
+\alias{jsanch-package}
+\alias{jsanch}
+\docType{package}
+\title{Mean Function
+\packageTitle{jsanch}
+}
+\description: This is a basic package which holds a function which I would use to find the mean of a vector.
+\packageDescription: This is a basic package which holds a function which I would use to find the mean of a vector.
+}
+
+
+The DESCRIPTION file:
+\packageDESCRIPTION{jsanch}
+\packageIndices{jsanch}
+This is a basic package which holds a function which I would use to find the mean of a vector.
+}
+\author{Joseph Sanchez
+\JosephSanchez{jsanch}
+
+
+Maintainer: \JosephSanchez{jsanch}
+}
+\references{
+The Art of R programming: a tour of statistical software design by Norman Matloff, Published by No Starch   Press San Francisco
+Statistics for Library and Information Services. A Primer for Using Open Source R Software for Accessibiliy and Visualization by Alon Friedman Published by Rowman & Littlefield
+Analyzing Linguistic Data by Baayen, Published by Cambridge University Press Cambridge, UK
+}
+\keyword{ jsanch }
+\examples{
+# Mean Function
+Mean
+
+
+Package: jsanch
+Type: Package
+Title: Mean function
+Version: 0.1.0
+Author: Joseph Sanchez
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This is a simple package which holds a functinon which I would use to 
+find the mean of a vector.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+
+
+
+
+
